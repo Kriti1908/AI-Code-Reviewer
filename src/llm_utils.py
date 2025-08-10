@@ -1,3 +1,4 @@
+import os
 import openai
 from typing import List, Dict
 import re
